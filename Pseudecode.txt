@@ -1,0 +1,26 @@
+Type the author, class, date and restate project assignment question. All as a comment.
+
+Initiate Main function
+
+Declare variables we are gonna use and initiate the list. One of the list should contain the years.
+
+Use a "Try and Except" to make sure the file exist and handdle errors.
+Use "Try" from before read the file.
+
+Open and "read" the file with loops.
+
+Save those values from the file on a list.
+
+Calculate the average per year in order to find the year with the greatest and smallest average value.
+
+Calculate the average annual change during the period by substracting the last year with the first year values and then divide those by the period.
+
+Display the Average annual change during the period and the year with the greatest and smallest increase in population.
+
+Close de file.
+
+Use the "Except" after the file has been closed.
+
+Call the main fucntion
+
+
